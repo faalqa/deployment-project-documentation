@@ -17,3 +17,9 @@
 ## EB
 ![image](https://user-images.githubusercontent.com/59806790/211598790-98096c8d-c3b3-45a9-b79e-5933b58e299f.png)
 ![image](https://user-images.githubusercontent.com/59806790/211599418-c1ad98c2-30fb-400f-85d3-1c8185192a19.png)
+#### Environment
+![image](https://user-images.githubusercontent.com/59806790/211600122-4e328c18-600f-4bb9-af94-bed95aba21fb.png)
+#### Application
+![image](https://user-images.githubusercontent.com/59806790/211600192-9e53032c-dc36-4448-9a56-864ed7f77e1a.png)
+#### Details
+![image](https://user-images.githubusercontent.com/59806790/211600453-0bd040b6-a0c0-49d1-9464-b52831d4745f.png)
