@@ -23,3 +23,6 @@
 ![image](https://user-images.githubusercontent.com/59806790/211600192-9e53032c-dc36-4448-9a56-864ed7f77e1a.png)
 #### Details
 ![image](https://user-images.githubusercontent.com/59806790/211600453-0bd040b6-a0c0-49d1-9464-b52831d4745f.png)
+#### deploy
+![image](https://user-images.githubusercontent.com/59806790/211618489-93b57ab1-bc40-4437-9d4b-a5d135ed4d82.png)
+
