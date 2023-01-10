@@ -42,5 +42,21 @@
 ![image](https://user-images.githubusercontent.com/59806790/211648462-a9fa1039-6a9a-4f6c-9120-7ef363b596ea.png)
 
 
+## CircleCi
+![image](https://user-images.githubusercontent.com/59806790/211656279-6d2be041-9f16-47d5-881b-8d26c634f002.png)
+
+### Build and Deploy
+![image](https://user-images.githubusercontent.com/59806790/211673234-3c6aa31c-e809-488f-9ba7-96718528a97f.png)
+
+#### Build
+![image](https://user-images.githubusercontent.com/59806790/211673534-a955ac96-f034-4d19-bb52-ffde3ca18259.png)
+
+#### Deploy
+![image](https://user-images.githubusercontent.com/59806790/211673652-a03bb11f-c3b9-4983-a4d2-5120a1a36911.png)
+
+#### Environment Variables 
+![image](https://user-images.githubusercontent.com/59806790/211673813-d43a1fc1-cf07-4f97-8ec1-d3613b9107e6.png)
+
+
 
 
