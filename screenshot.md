@@ -34,5 +34,10 @@
 ### Register
 ![image](https://user-images.githubusercontent.com/59806790/211636821-8c7ce295-00d9-4f90-8e99-fcdc947db93a.png)
 ![image](https://user-images.githubusercontent.com/59806790/211636996-765eb3a5-609c-4003-bfe0-cd07423de6d6.png)
+![image](https://user-images.githubusercontent.com/59806790/211641112-3bcf17ab-170a-40fa-b162-445134e5aabb.png)
+![image](https://user-images.githubusercontent.com/59806790/211641139-dda09cad-7a22-4d9d-a2e5-d65e8d629703.png)
+![image](https://user-images.githubusercontent.com/59806790/211641173-ba7bd26d-de60-4be7-a679-46dcf930ffde.png)
+![image](https://user-images.githubusercontent.com/59806790/211641203-47a464cd-4c91-4c8a-8dbd-a3fe90edc685.png)
+
 
 
