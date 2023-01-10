@@ -25,4 +25,14 @@
 ![image](https://user-images.githubusercontent.com/59806790/211600453-0bd040b6-a0c0-49d1-9464-b52831d4745f.png)
 #### deploy
 ![image](https://user-images.githubusercontent.com/59806790/211618489-93b57ab1-bc40-4437-9d4b-a5d135ed4d82.png)
+![image](https://user-images.githubusercontent.com/59806790/211636344-1e57da09-4268-433b-878e-b67b0285804c.png)
+![image](https://user-images.githubusercontent.com/59806790/211636416-9904465b-ce42-4d02-a4bd-f29aaed5f726.png)
+
+
+## Access the page
+![image](https://user-images.githubusercontent.com/59806790/211636756-273680cf-42d0-43ab-8086-9caf55a73fd5.png)
+### Register
+![image](https://user-images.githubusercontent.com/59806790/211636821-8c7ce295-00d9-4f90-8e99-fcdc947db93a.png)
+![image](https://user-images.githubusercontent.com/59806790/211636996-765eb3a5-609c-4003-bfe0-cd07423de6d6.png)
+
 
