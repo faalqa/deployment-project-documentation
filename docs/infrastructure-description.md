@@ -9,6 +9,12 @@ Postgres Relational Database is provided using AWS RDS
 ## API
 Backend API is hosted using AWS Elastic Beanstalk
 
+Create IAM user:
+![image](https://user-images.githubusercontent.com/59806790/211690612-d781749e-ae2e-4130-a94b-6ffa409d2977.png)
+
+Set Environment Variables:
+![image](https://user-images.githubusercontent.com/59806790/211690793-3adaf71f-751a-4472-9b71-e609bd1d3bc1.png)
+
 Create Environment and Application:
 ![image](https://user-images.githubusercontent.com/59806790/211600122-4e328c18-600f-4bb9-af94-bed95aba21fb.png)
 ![image](https://user-images.githubusercontent.com/59806790/211600453-0bd040b6-a0c0-49d1-9464-b52831d4745f.png)
@@ -17,7 +23,7 @@ Deploy API and Validate:
 ![image](https://user-images.githubusercontent.com/59806790/211648462-a9fa1039-6a9a-4f6c-9120-7ef363b596ea.png)
 ![image](https://user-images.githubusercontent.com/59806790/211636416-9904465b-ce42-4d02-a4bd-f29aaed5f726.png)
 
-
+The api endpoint URL is setted in the environment variables to be used by the front-end
 
 ## File Storage
 Front-end files developed using Angular framework, front-end files and images are hosted in ASW S3 bucket
@@ -52,11 +58,26 @@ You signed up and you can see your email on the screen
 ![image](https://user-images.githubusercontent.com/59806790/211641203-47a464cd-4c91-4c8a-8dbd-a3fe90edc685.png)
 
 Click `LOG OUT` 
+
 Then `LOG IN`
-![image](https://user-images.githubusercontent.com/59806790/211689113-ef2dbd9c-1ac2-4ff3-b77d-53ba8eb24a6b.png)
 ![image](https://user-images.githubusercontent.com/59806790/211689095-95ae667a-05f3-4e88-9256-f1c966d83b7b.png)
+![image](https://user-images.githubusercontent.com/59806790/211689113-ef2dbd9c-1ac2-4ff3-b77d-53ba8eb24a6b.png)
 ![image](https://user-images.githubusercontent.com/59806790/211689052-44dd6817-7ba8-4094-b18f-27a3821c02b2.png)
 
 
 ## Continues Integration & Continues Delivery CI/CD
 Continues integration and continues delivery CI/CD are applied using CircleCi 
+
+The project has published on GitHub and added to CircleCi
+
+Set Environment Variables in CircleCi
+![image](https://user-images.githubusercontent.com/59806790/211673813-d43a1fc1-cf07-4f97-8ec1-d3613b9107e6.png)
+
+Push changes into git will trigger the pipeline to build then deploy the app (run scripts in .circleci/config.yml)
+![image](https://user-images.githubusercontent.com/59806790/211674386-1b003de1-7d40-42b9-a0e4-e104ce4bfa2a.png)
+
+Build:
+![image](https://user-images.githubusercontent.com/59806790/211673534-a955ac96-f034-4d19-bb52-ffde3ca18259.png)
+
+Deploy:
+![image](https://user-images.githubusercontent.com/59806790/211673652-a03bb11f-c3b9-4983-a4d2-5120a1a36911.png)
