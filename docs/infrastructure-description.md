@@ -73,7 +73,7 @@ The project has published on GitHub and added to CircleCi
 Set Environment Variables in CircleCi
 ![image](https://user-images.githubusercontent.com/59806790/211673813-d43a1fc1-cf07-4f97-8ec1-d3613b9107e6.png)
 
-Push changes into git will trigger the pipeline to build then deploy the app (run scripts in .circleci/config.yml)
+Push changes into git will trigger the pipeline to build then deploy the app (run scripts in [.circleci/config.yml](https://github.com/faalqa/deployment-project-documentation/blob/main/.circleci/config.yml))
 ![image](https://user-images.githubusercontent.com/59806790/211674386-1b003de1-7d40-42b9-a0e4-e104ce4bfa2a.png)
 
 Build:
