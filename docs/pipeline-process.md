@@ -1,5 +1,9 @@
 # Pipeline Process
 
+### Pipeline Process Diagram
+![Pipeline Process Diagram](https://user-images.githubusercontent.com/59806790/211859743-953a244f-d7c3-498b-8cfa-73e97bc4252f.png)
+
+
 Referring to the scripts in the file [.circleci/config.yml](https://github.com/faalqa/deployment-project-documentation/blob/main/.circleci/config.yml),
 
 The pipeline workflow has two jobs and hold between them:
