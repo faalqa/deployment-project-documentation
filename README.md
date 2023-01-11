@@ -20,3 +20,5 @@ And the [root package.json](https://github.com/faalqa/deployment-project-documen
 - Pipeline Process
 
 You can find the markdowns in [documents](https://github.com/faalqa/deployment-project-documentation/tree/main/docs)
+
+The Detailed Screenshots in [description](https://github.com/faalqa/deployment-project-documentation/blob/main/docs/infrastructure-description.md)
