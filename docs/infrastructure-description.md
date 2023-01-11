@@ -43,7 +43,7 @@ Upload Files:
 Access Home Page:
 ![image](https://user-images.githubusercontent.com/59806790/211595821-95107fab-0d19-4e10-8762-f6f5806ef67e.png)
 
-Application is accessable via this link: [Udagram](http://udagram-app-532763768151.s3-website-us-east-1.amazonaws.com) 
+Application is accessable via this link: [Open Udagram](http://udagram-app-532763768151.s3-website-us-east-1.amazonaws.com) 
 
 ### Using The Application
 
